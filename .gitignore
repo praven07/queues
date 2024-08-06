@@ -72,3 +72,4 @@ Thumbs.db
 Thumbs.db
 
 # End of common Java project ignores
+*.zip
